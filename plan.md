@@ -9,10 +9,8 @@
 
 ## 🏗️ Technical Architecture
 
-### Migration to Next.js
+### Current Technical Stack
 - **Current Stack:** React + TypeScript + Vite + Tailwind CSS
-- **Target Stack:** Next.js + TypeScript + Tailwind CSS
-- **Benefits:** Better SEO, built-in API routes, server-side rendering, easier deployment
 
 ### Data Strategy
 - **Source:** ESPN WNBA API (comprehensive endpoints documented in espn_api.md)
